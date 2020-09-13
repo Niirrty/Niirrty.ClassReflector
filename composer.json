@@ -1,0 +1,19 @@
+{
+    "name": "niirrty/class-reflector",
+    "description": "A PHP Tool/Class for creating a signatures dump for any known PHP class",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ni Irrty",
+            "email": "niirrty+code@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Niirrty\\Reflection\\": "src/"
+        }
+    }
+}
